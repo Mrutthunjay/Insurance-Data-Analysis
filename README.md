@@ -1,2 +1,76 @@
 # Insurance-Data-Analysis
-Data analysis project focused on insurance data to identify customer trends, policy performance, claims insights, and key business metrics using Excel.
+Interactive Insurance Analytics Dashboard built in Microsoft Excel to analyze invoices, renewals, cross-sell, opportunities, meetings, and revenue performance.
+# Insurance Analytics Dashboard – Excel
+
+## 📊 Project Overview
+
+This project is an interactive Insurance Analytics Dashboard developed using Microsoft Excel.
+
+The dashboard provides insights into insurance invoices, renewals, cross-sell performance, new business, opportunities, meetings, and revenue.
+
+## 🛠️ Tools Used
+
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Excel Slicers
+- Data Analysis
+- Data Visualization
+
+## 🎯 Key Objectives
+
+- Analyze insurance invoice performance
+- Track renewal and new business performance
+- Analyze cross-sell opportunities
+- Monitor employee/account executive performance
+- Analyze meetings and invoices
+- Identify top revenue-generating opportunities
+- Track opportunity stages and product groups
+
+## 📈 Dashboard Highlights
+
+The dashboard includes:
+
+- Cross-Sell Analysis
+- New Business Analysis
+- Renewal Analysis
+- Invoice Achievement %
+- Placed Achievement %
+- Total Invoice
+- Policy Count
+- Total & Open Opportunities
+- Yearly Meeting Count
+- Meetings by Account Executive
+- Invoices by Account Executive
+- Top Opportunities by Revenue
+- Opportunity Revenue by Product Group
+- Opportunity Stage Funnel
+- Top 5 Open Opportunities
+
+## 💡 Key Insights
+
+The dashboard helps identify:
+
+- Insurance business performance across different categories
+- Renewal and new business trends
+- Employee-wise meeting and invoice performance
+- High-value revenue opportunities
+- Distribution of opportunities across product groups
+- Opportunity stages and potential revenue
+
+## 📂 Project File
+
+- `Insurance_Analytics_Dashboard.xlsx`
+
+## 🚀 Skills Demonstrated
+
+- Microsoft Excel
+- Data Cleaning
+- Data Analysis
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Dashboard Creation
+- Data Visualization
+- Business Insights
+- 
