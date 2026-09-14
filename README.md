@@ -77,3 +77,7 @@ The dashboard helps identify:
   ## Dashboard screenshort
 
   https://github.com/Mrutthunjay/Insurance-Data-Analysis/blob/main/Screenshot%202026-09-14%20150450.png.
+
+  ## Conclusion
+
+This Insurance Analytics Dashboard provides a clear and interactive view of insurance business performance using Microsoft Excel. It helps analyze invoices, renewals, cross-sell activities, meetings, opportunities, and revenue. The dashboard makes it easier to identify important trends, compare employee performance, and understand high-value opportunities. Overall, the project demonstrates how Excel can be used to transform raw insurance data into meaningful insights that support better business decision-making.
