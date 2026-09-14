@@ -60,7 +60,7 @@ The dashboard helps identify:
 
 ## 📂 Project File
 
-- `Insurance_Analytics_Dashboard.xlsx`
+https://github.com/Mrutthunjay/Insurance-Data-Analysis/blob/main/excelr%20excel%20project.xlsx
 
 ## 🚀 Skills Demonstrated
 
