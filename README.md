@@ -73,4 +73,7 @@ The dashboard helps identify:
 - Dashboard Creation
 - Data Visualization
 - Business Insights
-- 
+
+  ## Dashboard screenshort
+
+  https://github.com/Mrutthunjay/Insurance-Data-Analysis/blob/main/Screenshot%202026-09-14%20150450.png.
