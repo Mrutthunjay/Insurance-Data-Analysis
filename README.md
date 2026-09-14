@@ -1,5 +1,3 @@
-# Insurance-Data-Analysis
-Interactive Insurance Analytics Dashboard built in Microsoft Excel to analyze invoices, renewals, cross-sell, opportunities, meetings, and revenue performance.
 # Insurance Analytics Dashboard – Excel
 
 ## 📊 Project Overview
