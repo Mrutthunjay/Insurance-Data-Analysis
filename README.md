@@ -1,4 +1,4 @@
-# Insurance Analytics Dashboard – Excel
+# Insurance Analytics Dashboard – Microsoft Excel
 
 ## 📊 Project Overview
 
